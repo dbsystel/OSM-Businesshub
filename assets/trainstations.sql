@@ -1,0 +1,9 @@
+CREATE TABLE trainstations (
+eva_number INT NOT NULL,
+ds100 VARCHAR(6) NOT NULL,
+ifopt VARCHAR(16) NOT NULL,
+name VARCHAR(50) NOT NULL,
+trafic VARCHAR(3) NOT NULL,
+longitude REAL NOT NULL,
+latidude REAL FLOAT NOT NULL
+); 
